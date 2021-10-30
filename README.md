@@ -10,8 +10,7 @@ A repository to contribute solutions to some algorithmic questions.
 * Solve and add any four questions from below in that folder.
 * Make the pull request.
 
-> Note: You can use any programming language for the submission.
-> All The Best!!
+> Note: You can use any programming language for the submission. 
 
 ## Questions
 
@@ -117,3 +116,4 @@ Input: nums = [1,1,1,2,3,4]
 Output: nums = [1,2,3,4,-1,-1]
 ```
 
+## All The Best!!
